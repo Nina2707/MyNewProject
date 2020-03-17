@@ -1,0 +1,2 @@
+# MyNewProject
+practicing Robot Framework
